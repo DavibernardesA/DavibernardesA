@@ -1,7 +1,7 @@
 ## opa, seja bem vindo para a minha caverna: Davi aqui! 👋
 <a href="https://github.com/DavibernardesA/github-readme-stats">
   <img align="center" style="height: 190px" src="https://github-readme-stats.vercel.app/api?username=DavibernardesA&show_icons=true&theme=tokyonight" />
-  <img align="center" style="height: 190px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavibernardesA&langs_count=8&theme=tokyonight" />
+  <img align="center" style="height: 190px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavibernardesA &langs_count=8&theme=tokyonight" />
 </a>
 
 ## Redes Sociais
