@@ -20,11 +20,13 @@
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div><br>
 
-
 ## Redes Sociais
 
 
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/5561991801610)
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discord.com/channels/@me/1105500999440945272)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DavibernardesA&bg_color=1a1b27&color=38bdae&line=2b3752&point=638fda&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
