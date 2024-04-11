@@ -20,6 +20,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="java" height="50" width="55" src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png">
+ <img align="center" alt="git" height="35" width="35" src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png">
+
 </div><br>
 
 ## Redes Sociais
