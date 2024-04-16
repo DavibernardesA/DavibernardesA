@@ -1,6 +1,6 @@
 <div align="center">
   <div align="center">  
-      <h1>Olá! me chamo <a href="https://www.linkedin.com/in/davi-bernardes-do-nascimento-7b62a4274/" target="_blank" rel="external"><i>Davi Bernardes!👋</i></a></h1>
+      <h1>Hey! My Name is <a href="https://www.linkedin.com/in/davi-bernardes-do-nascimento-7b62a4274/" target="_blank" rel="external"><i>Davi Bernardes!👋</i></a></h1>
   </div>
 
   <div align="center">
@@ -10,7 +10,7 @@
     </a>
   </div>
   <br/>
-• :computer: Desenvolvedor Fullstack
+• :computer: Backend Developer
 
  <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -25,7 +25,7 @@
 
 </div><br>
 
-## Redes Sociais
+## social media
 
 
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/5561991801610)
