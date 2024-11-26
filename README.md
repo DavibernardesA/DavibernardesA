@@ -19,7 +19,6 @@
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Python" height="30" width="30"src="https://github.com/user-attachments/assets/39297db8-68fc-4fe8-812f-ba86cbc4d419">
-  <img align="center" alt="Go" height="60" width="60"src="https://github.com/user-attachments/assets/8a90867e-54df-4708-8845-ebc8f7fa3870">
 </div><br>
 
 ## social media
